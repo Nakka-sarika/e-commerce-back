@@ -11,8 +11,8 @@ pipeline {
         TOMCAT_USER = 'admin'
         TOMCAT_PASS = 'admin'
 
-        BACKEND_REPO = 'https://github.com/Anju8168/backendcrud.git'
-        FRONTEND_REPO = 'https://github.com/Anju8168/frontendcrud.git'
+        BACKEND_REPO = 'https://github.com/Nakka-sarika/e-commerce-back.git'
+        FRONTEND_REPO = 'https://github.com/Nakka-sarika/e-commerce.git'
 
         BACKEND_DIR = 'backend'
         FRONTEND_DIR = 'frontend'
